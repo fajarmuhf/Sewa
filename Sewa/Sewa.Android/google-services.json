@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1038786037395",
+    "project_id": "sewa-dcf90",
+    "storage_bucket": "sewa-dcf90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038786037395:android:ce469133e39f05a884ef66",
+        "android_client_info": {
+          "package_name": "com.fmfstudio.sewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038786037395-4jefhuens1mhenm3i60r0l64dvug1d12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fmfstudio.sewa",
+            "certificate_hash": "607c65eb63784035f65c5cb75561ef5a41801932"
+          }
+        },
+        {
+          "client_id": "1038786037395-dod2i4lb5k9mr4g7ngpdksp6qjru14nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fmfstudio.sewa",
+            "certificate_hash": "e3f9531e3e006c2332a4ee2fb5c1d0f4bbf38475"
+          }
+        },
+        {
+          "client_id": "1038786037395-7f204rqe3nj6skk06usephc3fvihqecl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVKYouIGoWB3NisSa80VPbkwOIfvKLV0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038786037395-7f204rqe3nj6skk06usephc3fvihqecl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
